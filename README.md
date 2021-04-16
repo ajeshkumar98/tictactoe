@@ -8,5 +8,10 @@ Technologies used
 
 
 Java Script
+
+
 HTML
+
+![tictactoe](https://user-images.githubusercontent.com/69053878/115090444-e5cac200-9ee2-11eb-9b4b-a2c722ecb749.jpg)
+
 CSS
